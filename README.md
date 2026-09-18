@@ -67,8 +67,8 @@ Building AI-first, data-driven products across Security, Compliance, Identity, D
 * Product Health Engineering
 * Trusted advisor to cSuite, advise and work with field on high value deals
 
-**LinkedIn: linkedin.com/in/devagnanam**
+**LinkedIn: https://linkedin.com/in/devagnanam**
 
-**Blog: lecafedeva.in**
+**Blog: https://lecafedeva.in**
 
 **Email: dpideva@hotmail.com, infydeva@gmail.com**
