@@ -2,7 +2,7 @@
 
 Building AI-first, data-driven products across Security, Compliance, Identity, Data Platforms, and Developer Ecosystems.
 
-**About Me:** I am a Product Management leader with 23+ years of experience in enterprise software, including 19+ years at Microsoft.
+**About Me:** I am a Product Management leader with 23+ years of experience in enterprise software, including 19+ years at Microsoft. **You can have a look at my Product Portfolio:** https://github.com/devagnanamj/product-portfolio/blob/main/README.md
 
 **My experience spans:**
 
