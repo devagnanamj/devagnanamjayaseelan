@@ -1,5 +1,4 @@
-👋 Hi, I'm Devagnanam Jayaseelan (Deva)
-Seasoned Principal-level Product Manager | AI Product Leader
+👋 Hi, I'm Devagnanam Jayaseelan (Deva) Seasoned AI Product Management Leader
 
 Building AI-first, data-driven products across Security, Compliance, Identity, Data Platforms, and Developer Ecosystems.
 
@@ -68,4 +67,4 @@ Building AI-first, data-driven products across Security, Compliance, Identity, D
 
 **Blog: lecafedeva.in**
 
-**Email: infydeva@gmail.com**
+**Email: dpideva@hotmail.com, infydeva@gmail.com**
