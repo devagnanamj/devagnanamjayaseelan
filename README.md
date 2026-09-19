@@ -1,8 +1,14 @@
-👋 Hi, I'm Devagnanam Jayaseelan (Deva) Seasoned AI Product Management Leader
+👋 Hi, I'm Devagnanam Jayaseelan (Deva) Seasoned AI Product Management Leader | AI, Data, Security & Platform Strategy
 
-Building AI-first, data-driven products across Security, Compliance, Identity, Data Platforms, and Developer Ecosystems.
+**About me:** Product leader with 23+ years of experience building and scaling enterprise and consumer platforms across AI, Security, Compliance, Identity, SaaS, Developer Ecosystems, Customer Experience, Analytics, and Digital Transformation.
 
-**About Me:** I am a Product Management leader with 23+ years of experience in enterprise software, including 19+ years at Microsoft. **You can have a look at my Product Portfolio:** https://github.com/devagnanamj/product-portfolio/blob/main/README.md
+I specialize in translating complex customer and business challenges into measurable product outcomes through data-driven strategy, AI-powered innovation, security-by-design principles, and cross-functional execution. I loved building AI-first, data-driven products across Security, Compliance, Identity, Data Platforms, and Developer Ecosystems.
+
+This portfolio showcases representative product case studies demonstrating leadership across strategy, roadmap planning, platform modernization, customer experience transformation, AI adoption, operational excellence, and business growth.
+
+Note: All case studies are anonymized and represent generalized product leadership scenarios. No confidential, customer-specific, proprietary, or personally identifiable information (PII) is included.
+
+**My Product Portfolio:** https://github.com/devagnanamj/product-portfolio/blob/main/README.md
 
 **My experience spans:**
 * Multi-year product plans, OKR/KPIs, Business Reviews, Operating Rhythm, planning, backlog, features, Agile, Scrum, Gemba Walks
